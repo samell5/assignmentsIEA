@@ -1,0 +1,47 @@
+
+body{
+font-family: san-seirf;
+font-size: 1em;
+line-height:1.5em;
+}
+#menu{
+list-style-type:none;
+margin:0;
+padding:0;
+overflow:hidden;
+}
+#iterms{
+float:left;
+}
+a:link, a:visited
+{
+display:block;
+width:300px;
+font-weight:bold;
+color:white;
+background-color:purple;
+text-align:center;
+padding:6px;
+text-decoration:none;
+}
+a:hover, a:active 
+{
+color: #ff5c5c;
+}
+#foot
+{
+text-align:center;
+color:white;
+font-size:0.8em;
+background-color:black;
+padding:6px;
+margin:300px;
+}
+a:label;
+{
+float:left;
+width:150;
+
+ 
+ 
+ }
